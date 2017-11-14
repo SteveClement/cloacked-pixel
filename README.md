@@ -1,5 +1,6 @@
 ![logo](images/logo.png)
 
+/!\ pycrypto badly maintained: https://github.com/dlitz/pycrypto/issues/243 - python3 temporarily broken in this repo, python 2.7 works
 
 cloacked-pixel
 ==========
